@@ -1,5 +1,5 @@
 language: java
 install: 
-  - echo "Bonjour"
+ - echo "Bonjour"
 script:
-  - echo "Bonjour2"
+ - echo "Bonjour2"
